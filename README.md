@@ -1,3 +1,5 @@
-# MyHompepage
+# WebProgramming1Lessons
 
-https://fairozaamira.github.io/MyHompepage/
+Exercises done in the class
+
+https://fairozaamira.github.io/WebProgramming1Lessons
